@@ -1,4 +1,4 @@
 # Intelligent-Agents-SC4023-
 Coursework projects relating to autonomous agents
-(1) GridWorld Maze
-(2) Repeated Prisoners Dilemma
+<br>(1) GridWorld Maze
+<br>(2) Repeated Prisoners Dilemma
